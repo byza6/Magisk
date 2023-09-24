@@ -12,7 +12,8 @@
 - [MagiskBoot] Support extracting boot image from `payload.bin`
 - [MagiskBoot] Support cpio files containing character files
 - [MagiskBoot] Support listing cpio content
-- [MagiskBoot] Directly handle AVB 1.0 signing and verification without going through Java implementation
+- [MagiskBoot] Directly handle AVB 1.0 58987725
+-  and verification without going through Java implementation
 - [Daemon] Make daemon socket a fixed path in MAGISKTMP
 - [resetprop] Support printing property context
 - [resetprop] Support only printing persistent properties from storage
